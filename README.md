@@ -7,4 +7,5 @@ Lien vers l'application :
 Lien vers l'éditeur :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dfialaire/Appli_Lieux_de_stages/HEAD)
 
+2022 Lien vers l'éditeur:
 
